@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hello! 
 
-<!--
-**danimlds/danimlds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm danimlds,
+## I'm a systems analyst and developer that loves to work with challenging and creative projects, passionate about building projects that will have a positive impact on people's lives. 😍
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/danimlds">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danimlds&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danimlds&layout=compact&langs_count=7&theme=radical"/>
+</div>
+
+<div align="center"> 
+  <a href="https://www.youtube.com/channel/UCC1Jo-znuUXHggxg9E8UkBg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/danimlds" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/danimlds" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+ </a> 
+  <a href = "mailto:daniel.mlds@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
