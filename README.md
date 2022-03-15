@@ -1,8 +1,6 @@
-## Hello! 
+## Olá!
 
-## I'm danimlds,
-## I'm a systems analyst and developer that loves to work with challenging and creative projects, passionate about building projects that will have a positive impact on people's lives. 😍
-
+## Eu sou Daniel, formado em análise e desenvolvimento de sistemas pela Fatec Zona Leste que adora trabalhar com projetos desafiadores e criativos, apaixonado por construir projetos que terão um impacto positivo na vida das pessoas.
 
 <div align="center">
   <a href="https://github.com/danimlds">
