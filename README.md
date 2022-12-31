@@ -26,3 +26,5 @@ public class Ukraine {
 :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: 
 :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: 
 
+:green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart:
+
