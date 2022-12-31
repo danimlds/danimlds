@@ -26,26 +26,7 @@ public class Ukraine {
 :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: 
 :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+:star: :star: :star: :star: :star: :star: :star: :star: :star: :star: :star: :star: :star: :star: :star: :star: PELE PELE PELE :star: :star: :star: :star: :star: :star: :star: :star: :star: :star: :star: :star: :star: :star: :star: :star: :star:
 
 
 :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart:  :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart:  :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart:  :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart:  :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart:  :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart: :green_heart:  :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart:
