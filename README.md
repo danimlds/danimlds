@@ -3,7 +3,7 @@
 ```
 public class Ukraine { 
     public static void main(String[] args) {
-        System.out.println("They have money for war but can't feed the poor.");
+        System.out.println("<3");
     }
 }
 ```
