@@ -1,27 +1,9 @@
-## :blue_heart: UKRAINE :yellow_heart:
+## :blue_heart::yellow_heart::green_heart:
 
 ```
-public class Ukraine { 
+public class H<EART { 
     public static void main(String[] args) {
         System.out.println("<3");
     }
 }
 ```
-:blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: 
-:blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: 
-:blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: 
-:blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: 
-:blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: 
-:blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: 
-:blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: 
-:blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart: :blue_heart:
-
-
-:yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: 
-:yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: 
-:yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: 
-:yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: 
-:yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: 
-:yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: 
-:yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: 
-:yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: :yellow_heart: 
