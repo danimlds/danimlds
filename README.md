@@ -1,16 +1,26 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-<!--
-**danimlds/danimlds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF0000&size=35&center=true&vCenter=true&width=1000&lines=Daniel+Moura;Bem-vindos)](https://git.io/typing-svg) 
 
-Here are some ideas to get you started:
+# HABILIDADES: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Java - Desenvolver aplicações back-end utilizando padrão REST com a linguagem Java e o Framework Spring Boot.
+### Teste de Programas com JUnit 
+### Python
+### Banco de Dados para Data Science
+### Programação em Inteligência Artificial Generativa
+### Power BI
+### Desenvolvimento de Sistemas com PHP
+### Interfaces WEB com HTML,  CSS e Javascript 
+### Arquitetura Ágil de Software
+### Docker
+### Git e Github
+### Diagramas da UML
+### Pacote Office
+
+###Inglês Avançado
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
